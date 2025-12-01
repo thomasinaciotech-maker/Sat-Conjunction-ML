@@ -1,0 +1,7 @@
+## Bibliotecas nescessárias
+skyfield
+scikit-learn
+imblearn
+pandas
+numpy
+requests
